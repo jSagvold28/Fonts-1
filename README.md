@@ -14,11 +14,11 @@
 
 
 ## Who is This App For:
-# Students
-# Developers
-# UI Designers
-# Designers
-# ect
+Students
+Developers
+UI Designers
+Designers
+ect
 
 # This app may be released to the App Store later on.
 
